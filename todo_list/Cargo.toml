@@ -1,6 +1,4 @@
 [package]
-
-crate-type = ["lib", "cdylib", "staticlib"]
 name = "todo_list"
 version = "0.1.0"
 edition = "2021"
